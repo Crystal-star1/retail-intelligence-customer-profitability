@@ -265,7 +265,7 @@ Results should therefore be interpreted within the scope of the dataset, its def
 ## Related Work
 
 **Portfolio:**  
-https://nifemi-the-analyst-portfolio.netlify.app/
+https://nifemi-the-analys.netlify.app/
 
 **LinkedIn:**  
 https://linkedin.com/in/mary-oluropo-336812263
